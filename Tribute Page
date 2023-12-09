@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+   <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <main id="main">
+    <h1 id="title">Tribute Page Header</h1>
+    <div id="img-div">
+      <img id="image" src="https://mostaql.hsoubcdn.com/uploads/thumbnails/769950/60649b628fb84/10613180113fdf7bcd316b.jpg">
+      <p id="img-caption">Image caption</div>
+      </img>
+     </div>
+
+     <div id="tribute-info">Tribute info
+       <a id="tribute-link" href="https:/google.co.uk" target=""_blank"></a>
+      </div>
+    </main>
+</body>
+</html>
