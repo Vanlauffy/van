@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>free to eat </title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Go Food <3 </h1>
+        <p>Discover the amazing features of our product</p>
+    </header>
+
+    <section>
+        <h2>Features</h2>
+        <div id="features">
+            <p>Feature 1: The customer is very important, the customer will be followed by the customer.</p>
+            <p>Feature 2: But at the same time they happened with great labor and pain.</p>
+            <p>Feature 3: For let me come to the smallest detail, who does not exercise any kind of work.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>How It Works</h2>
+        <p>The customer is very important, the customer will be followed by the customer. But at the same time they happened with great labor and pain.</p>
+    </section>
+
+    <section id="cta">
+        <h2>Get Started Today!</h2>
+        <p>Don't miss out on the amazing benefits of our product. Get started today and transform your experience.</p>
+        <button>Sign Up Now</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Good Taste . All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
